@@ -1,0 +1,81 @@
+
+.standard{
+    text-align:left;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header{
+    height: 100px;
+    background-color:rgb(23, 117, 43);
+    color:white;
+    line-height: 100px;
+    text-align: center;
+    font-family:cursive
+}
+.mainbody{
+    background-color: rgb(220, 218, 208);
+}
+.footer{
+    background-color:rgb(208, 154, 46);
+    color:rgb(0, 0, 0);
+    height:25px;
+    bottom: 0px;
+    right: 5px;
+    left:5px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration:none;
+}
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 35%;
+}
+nav{
+    background-color:rgb(22, 17, 17);
+    padding: 10px;
+    overflow:hidden;
+}
+
+nav a{
+    color:rgb(255, 255, 255);
+    padding:10px 13px;
+    text-decoration:none;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a nav:hover{
+    color:rgb(206, 193, 176);
+}
+iframe{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 400px;
+    height: 225px;
+}
+.Leadline{
+    text-align:center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:darkolivegreen;
+}
+.title{
+    color:rgba(93, 54, 15, 0.572);
+    font-family:sans-serif;
+}
+.tableauPlaceholder{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 600px;
+}
+.href{
+    color: black;
+    font-weight:bold;
+}
+.text{
+    color: darkgoldenrod;
+    text-align: center;
+    font-family: monospace;
+}
